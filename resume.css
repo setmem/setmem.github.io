@@ -39,7 +39,7 @@ p { font-size: 100%; line-height: 18px; padding-right: 20px; text-align: justify
 a { color: #990003 }
 a:hover { text-decoration: none; }
 strong { font-weight: bold; }
-li { text-indent: 20px; line-height: 24px; font-size: 110%; list-style-type: circle; }
+li { padding-left: 20px; line-height: 24px; font-size: 110%; list-style-type: circle; }
 p.enlarge { font-size: 144%; line-height: 24px; }
 .contact-info { margin-top: 7px; line-height:24px; }
 .first h2 { font-style: italic; }
