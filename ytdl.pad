@@ -78,14 +78,14 @@
 	</Program_Descriptions>
 	<Web_Info>
 		<Application_URLs>
-			<Application_Info_URL />
+			<Application_Info_URL>http://setmem.github.io/</Application_Info_URL>
 			<Application_Order_URL />
-			<Application_Screenshot_URL />
-			<Application_Icon_URL />
+			<Application_Screenshot_URL>http://setmem.github.io/ytdl.jpg</Application_Screenshot_URL>
+			<Application_Icon_URL>http://setmem.github.io/64.png</Application_Icon_URL>
 			<Application_XML_File_URL />
 		</Application_URLs>
 		<Download_URLs>
-			<Primary_Download_URL />
+			<Primary_Download_URL>http://setmem.github.io/build/YTDL-1.0.2-setup.exe</Primary_Download_URL>
 			<Secondary_Download_URL />
 			<Additional_Download_URL_1 />
 			<Additional_Download_URL_2 />
