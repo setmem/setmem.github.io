@@ -34,8 +34,8 @@
 	</Company_Info>
 	<Program_Info>
 		<Program_Name>YouTube Downloader</Program_Name>
-		<Program_Version>1.0.2</Program_Version>
-		<Program_Release_Month>02</Program_Release_Month>
+		<Program_Version>1.0.4</Program_Version>
+		<Program_Release_Month>10</Program_Release_Month>
 		<Program_Release_Day>04</Program_Release_Day>
 		<Program_Release_Year>2015</Program_Release_Year>
 		<Program_Cost_Dollars />
@@ -85,7 +85,7 @@
 			<Application_XML_File_URL />
 		</Application_URLs>
 		<Download_URLs>
-			<Primary_Download_URL>http://setmem.github.io/build/YTDL-1.0.2-setup.exe</Primary_Download_URL>
+			<Primary_Download_URL>http://setmem.github.io/build/YTDL-latest-setup.exe</Primary_Download_URL>
 			<Secondary_Download_URL />
 			<Additional_Download_URL_1 />
 			<Additional_Download_URL_2 />
