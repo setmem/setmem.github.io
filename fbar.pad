@@ -33,10 +33,10 @@
 		</Support_Info>
 	</Company_Info>
 	<Program_Info>
-		<Program_Name>YouTube Downloader</Program_Name>
-		<Program_Version>1.0.4</Program_Version>
+		<Program_Name>Facebook Autoresponder</Program_Name>
+		<Program_Version>1.1.3</Program_Version>
 		<Program_Release_Month>02</Program_Release_Month>
-		<Program_Release_Day>04</Program_Release_Day>
+		<Program_Release_Day>24</Program_Release_Day>
 		<Program_Release_Year>2015</Program_Release_Year>
 		<Program_Cost_Dollars />
 		<Program_Cost_Other_Code />
@@ -48,13 +48,13 @@
 		<Program_Language>English</Program_Language>
 		<Program_Change_Info />
 		<Program_Specific_Category />
-		<Program_Category_Class>Network &amp; Internet::Download Managers</Program_Category_Class>
+		<Program_Category_Class>Communications::Other Comms Tools</Program_Category_Class>
 		<Program_Categories />
 		<Program_System_Requirements />
 		<File_Info>
-			<File_Size_Bytes>857153</File_Size_Bytes>
-			<File_Size_K>837.06</File_Size_K>
-			<File_Size_MB>0.82</File_Size_MB>
+			<File_Size_Bytes>974253</File_Size_Bytes>
+			<File_Size_K>951.42</File_Size_K>
+			<File_Size_MB>0.93</File_Size_MB>
 		</File_Info>
 		<Expire_Info>
 			<Has_Expire_Info>N</Has_Expire_Info>
@@ -68,24 +68,24 @@
 	</Program_Info>
 	<Program_Descriptions>
 		<English>
-			<Keywords>youtube,video,download</Keywords>
-			<Char_Desc_45>Download videos from YouTube</Char_Desc_45>
-			<Char_Desc_80>The easiest way to download videos from YouTube</Char_Desc_80>
-			<Char_Desc_250>YouTube Downloader is a software that allows you to easily download videos from YouTube without any appreciate ads and other distractions for free.</Char_Desc_250>
-			<Char_Desc_450>YouTube Downloader is a software that allows you to easily download videos from YouTube without any appreciate ads and other distractions for free. The program is easy to use, just copy the URL or ID of the video you want to download and select the required quality. You can use YouTube Downloader to download the videos of your choice from home, at the office or in school. You don't lose the video when it's removed or altered by YouTube or by the </Char_Desc_450>
-			<Char_Desc_2000>YouTube Downloader is a software that allows you to easily download videos from YouTube without any appreciate ads and other distractions for free. The program is easy to use, just copy the URL or ID of the video you want to download and select the required quality. You can use YouTube Downloader to download the videos of your choice from home, at the office or in school. You don't lose the video when it's removed or altered by YouTube or by the author. Download YouTube Downloader now and get started downloading your favorite videos from YouTube! It's extremely simple in use, fast and so good looking. Enjoy!</Char_Desc_2000>
+			<Keywords>facebook,chat,autoreply,autoresponder</Keywords>
+			<Char_Desc_45>Autoreply for Facebook chat</Char_Desc_45>
+			<Char_Desc_80>The easiest way to setup your own auto reply message for Facebook chat</Char_Desc_80>
+			<Char_Desc_250>Facebook Autoresponder is a software that allows you to easily setup your own auto reply message for Facebook chat. This is a Windows desktop application that end users are able to automatically sends a reply when someone contacts you.</Char_Desc_250>
+			<Char_Desc_450>Facebook Autoresponder is a software that allows you to easily setup your own auto reply message for Facebook chat. This is a Windows desktop application that end users are able to automatically sends a reply when someone contacts you. With the Facebook Autoresponder, you can easily take a break from social network without worrying about friends getting angry when not answering on Facebook while you're busy with something else.</Char_Desc_450>
+			<Char_Desc_2000>Facebook Autoresponder is a software that allows you to easily setup your own auto reply message for Facebook chat. This is a Windows desktop application that end users are able to automatically sends a reply when someone contacts you. With the Facebook Autoresponder, you can easily take a break from social network without worrying about friends getting angry when not answering on Facebook while you're busy with something else. It's extremely simple in use, fast and so good looking. Enjoy!</Char_Desc_2000>
 		</English>
 	</Program_Descriptions>
 	<Web_Info>
 		<Application_URLs>
 			<Application_Info_URL>http://setmem.github.io/</Application_Info_URL>
 			<Application_Order_URL />
-			<Application_Screenshot_URL>http://setmem.github.io/images/ytdl.jpg</Application_Screenshot_URL>
-			<Application_Icon_URL>http://setmem.github.io/images/ytdl-64.png</Application_Icon_URL>
+			<Application_Screenshot_URL>http://setmem.github.io/images/fbar-sc-03.jpg</Application_Screenshot_URL>
+			<Application_Icon_URL>http://setmem.github.io/images/fbar-64.png</Application_Icon_URL>
 			<Application_XML_File_URL />
 		</Application_URLs>
 		<Download_URLs>
-			<Primary_Download_URL>http://setmem.github.io/build/YTDL-latest-setup.exe</Primary_Download_URL>
+			<Primary_Download_URL>http://setmem.github.io/build/FbAutoresp-latest-setup.exe</Primary_Download_URL>
 			<Secondary_Download_URL />
 			<Additional_Download_URL_1 />
 			<Additional_Download_URL_2 />
