@@ -82,7 +82,7 @@
 			<Application_Order_URL />
 			<Application_Screenshot_URL>http://setmem.github.io/images/fbar-sc-03.jpg</Application_Screenshot_URL>
 			<Application_Icon_URL>http://setmem.github.io/images/fbar-64.png</Application_Icon_URL>
-			<Application_XML_File_URL />
+			<Application_XML_File_URL>http://setmem.github.io/fbar.pad</Application_XML_File_URL>
 		</Application_URLs>
 		<Download_URLs>
 			<Primary_Download_URL>http://setmem.github.io/build/FbAutoresp-latest-setup.exe</Primary_Download_URL>
